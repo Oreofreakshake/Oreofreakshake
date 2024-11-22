@@ -5,5 +5,5 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Oreofreakshake&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="[https://www.buymeacoffee.com/oreofreakshake](https://commerce.coinbase.com/checkout/839c7a6a-d0f3-4963-8dc0-7560629789e8)"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="yo" /></a>
+  <a href="https://commerce.coinbase.com/checkout/839c7a6a-d0f3-4963-8dc0-7560629789e8"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="yo" /></a>
 </p>
